@@ -1,7 +1,7 @@
 # MIAD_ANS_AEZ
 Aplicación de aprendizaje no supervisado en agricultura de cultivos sustitutos en diferentes regiones de Colombia .
 
-# MIAD_ANS_ProyectoSaludDental
+# MIAD_ANS_Proyecto: Zonas de Produción Agricola en Colombia
 
 ## Resumen
 
