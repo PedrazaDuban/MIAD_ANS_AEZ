@@ -19,7 +19,7 @@ La culminación de estos procesos nos permitirá generar recomendaciones fundame
 3. [Documentación](#Documentación)
 4. [Imagenes](#Imagenes)
 5. [Scripts](#Scripts)
-
+6. [Bibliografía] (#Bibliografía)
 
 ## Introducción
 
@@ -57,3 +57,25 @@ En el contexto del proyecto de Cultivos en Colombia , la sección de imágenes p
 ## Scripts
 
 Para el proyecto de de cultivos en Colombia en un proceso estratégico y fundamental para la optimización de la agricultura en el país , esta sección puede indicar cómo otros profesionales de la agricultura NAcional pueden contribuir a la investigación y análisis. Proporciona información sobre cómo pueden colaborar en la recopilación y análisis de datos, así como en la mejora de los procesos de los cultivos. También destaca cómo los desarrolladores pueden contribuir con scripts y herramientas específicas para el proyecto.
+
+## Bibliografía
+
+[1] Datos oficiales del gobierno colombiano sobre Evaluaciones Agropecuarias Municipales (EVA): Evaluaciones Agropecuarias Municipales (EVA) - Datos.gov.co 
+
+[2] Conjunto de datos y análisis relacionados con los municipios de Colombia disponible en Kaggle: Colombia Municipios en Kaggle 
+
+[3] Datos sobre la relación entre el área cosechada por cultivo y el rendimiento en Colombia: Área Cosechada por Cultivo Vs. Rendimiento - Datos.gov.co 
+
+[4] Información del gobierno colombiano sobre los cultivos con mayor potencial en Colombia: Cultivos con Mayor Potencial en Colombia - agronet.gov.co  
+
+[5] Noticia sobre la importancia de la agricultura sostenible en el bienestar de las sociedades, proporcionada por la Alcaldía de Medellín: La Agricultura Sostenible - Alcaldía de Medellín  
+
+[6] Recurso informativo sobre la diversificación de operaciones agrícolas: Diversification of Your Operation, Why  
+
+[7] Tamene, L., Abera, W., Bendito, E., Erkossa, T., Tariku, M., Sewnet, H.,  Tesfaye, K. (2022). Data-driven similar response units for agricultural technology targeting: An example from Ethiopia. Experimental Agriculture, 58, E27. doi:10.1017/S0014479722000126 
+
+[8] Sánchez-Cuervo, A. M., Aide, T. M., Clark, M. L., & Etter, A. (2012). Land Cover Change in Colombia: Surprising Forest Recovery Trends between 2001 and 2010. PLoS ONE, 7(8). https://doi.org/10.1371/journal.pone.0043943 
+
+[9] Chaves ME, Arango N, editors (1998) Informe Nacional sobre el estado de la Biodiversidad en Colombia 1997. Bogotá, DC, Colombia: Instituto de Investigación de Recursos Biológicos Alexander von Humboldt 
+
+ 
