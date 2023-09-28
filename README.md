@@ -48,7 +48,7 @@ El rendimiento de cultivo fue utilizado para crear recomendaciones basadas en el
 
 ## Documentación
 
-La sección de documentación es crucial para el proyecto de cultivos. Debe proporcionar instrucciones detalladas sobre cómo acceder a la información de salud dental, cómo utilizar herramientas de análisis de datos y cómo interpretar los resultados. Además, incluye pautas sobre cómo documentar adecuadamente los procedimientos y resultados de las investigaciones en el ámbito de la salud dental.
+Este proyecto se centra en centralización de datos demográficos, el comportamiento de los cultivos en Colombia, en base a la producción y rendimiento agrícola en las diferentes zonas geográficas con el principal objetivo de comprender y aprovechar la relación entre estos factores.
 
 ## Imágenes
 
