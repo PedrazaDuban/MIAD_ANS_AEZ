@@ -54,6 +54,9 @@ Este proyecto se centra en centralización de datos demográficos, el comportami
 
 En el contexto del proyecto de Cultivos en Colombia , la sección de imágenes puede contener capturas de pantalla o gráficos que ilustren regiones, municipios de los cultivos Sembrados en Colombia, ejemplos de casos de éxito, imágenes de  zonas o regiones similares de siembra de cultivos, y cualquier otra representación visual que sea relevante para mostrar el progreso y los logros del proyecto.
 
+![Resultados](/Imagenes/K_Means_6_PCA.png)
+
+
 ## Scripts
 
 Para el proyecto de de cultivos en Colombia en un proceso estratégico y fundamental para la optimización de la agricultura en el país , esta sección puede indicar cómo otros profesionales de la agricultura NAcional pueden contribuir a la investigación y análisis. Proporciona información sobre cómo pueden colaborar en la recopilación y análisis de datos, así como en la mejora de los procesos de los cultivos. También destaca cómo los desarrolladores pueden contribuir con scripts y herramientas específicas para el proyecto.
